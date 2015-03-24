@@ -8,7 +8,7 @@
 #
 # Change it to suit your need
 
-# The directory where the examples reside
+# The directory where the examples reside AAA
 PACS_ROOT=/home/forma/PacsVirtualMachine/pacs/PACSCourse/Material/Examples
 # The directory with the Eigen (leave blank if they are in a standard directory)
 EIGEN_DIR=$(mkEigenInc)
